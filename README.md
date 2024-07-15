@@ -13,3 +13,11 @@ Secure Authentication: Authenticate using Aadhaar credentials without disclosing
 Privacy-Preserving: Implements zero-knowledge proofs to verify identity while maintaining user privacy.
 React Components: Built with React framework for scalable and maintainable UI components.
 Web3 Integration: Includes integration with Web3 for wallet authentication and secure transactions.
+
+
+Usage
+
+Login: Navigate to /login to initiate wallet login.
+Verify Aadhaar: Access /verify-aadhaar to perform Aadhaar verification using Anon Aadhaar.
+
+
